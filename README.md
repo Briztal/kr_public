@@ -23,3 +23,6 @@ Mostly focuses on attributes management.
 An ARM32 (aarch32) decoder I generated with a program that I wrote to (guess what) generate decoders.
 
 I switched the encodings of two instructions, will you find which ;) ?
+
+Fun fact : it also works as a great way to make github lag.
+
